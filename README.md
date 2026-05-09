@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saparina</h1>
-<h3 align="center">Final-year CS student and incoming Software Engineering graduate student from China 🇨🇳</h3>
+<h3 align="center">Final-year CS student and incoming Software Engineering graduate student</h3>
 
 <p align="center">
   Passionate about AI, software engineering, and building practical solutions from research ideas ✨
@@ -16,14 +16,14 @@
 - 💬 Ask me about **Deep Reinforcement Learning (DRL)**
 - 🧠 Interested in **AI systems, backend development, and real-world engineering**
 - 📫 Reach me at **suying1f6@gmail.com**
-
+<!-- 
 ## 🚀 What I'm Looking For
 
 - Software Engineering opportunities
 - AI / Machine Learning related roles
-- Research-to-engineering projects with real-world impact
+- Research-to-engineering projects with real-world impact -->
 
-## 🛠️ Languages and Tools
+<!-- ## 🛠️ Languages and Tools
 
 ### Languages
 <p>
@@ -93,7 +93,7 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="42" height="42"/>
   </a>
-</p>
+</p> -->
 
 ## 📚 Currently Exploring
 
